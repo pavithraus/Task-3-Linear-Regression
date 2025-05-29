@@ -1,4 +1,4 @@
-## Linear_Regression_modelling Uing Housing Price dataset
+## Linear_Regression_modelling Using Housing Price dataset
 
 This project applies **Simple and Multiple Linear Regression** techniques to predict housing prices based on various features from the Housing price dataset.
 ---
