@@ -1,5 +1,4 @@
-# Linear_Regression_modelling Uing Housing Price dataset
-
+##Linear_Regression_modelling Uing Housing Price dataset
 
 This project applies **Simple and Multiple Linear Regression** techniques to predict housing prices based on various features from the Housing price dataset.
 ---
@@ -14,6 +13,14 @@ This project applies **Simple and Multiple Linear Regression** techniques to pre
 - Scikit-learn
 
 ---
+## Dataset Used
+
+- **Dataset:** [Housing.csv]https://github.com/pavithraus/Task-3-Linear-Regression/blob/main/Housing.csv
+- **Attributes include:**
+  - area, bedrooms, bathrooms, stories, parking, furnishing status, air conditioning, etc.
+  - target variable: **price**
+
+---
 ## Objective
 
 - Load and explore the housing price dataset.
@@ -25,16 +32,6 @@ This project applies **Simple and Multiple Linear Regression** techniques to pre
 - Predict housing prices for custom input data.
 
 ---
-
-## Dataset Used
-
-- **Dataset:**  Housing.csv
-- **Attributes include:**
-  - area, bedrooms, bathrooms, stories, parking, furnishing status, air conditioning, etc.
-  - target variable: **price**
-
----
-
 ## Key Tasks
 
 ###  1. Data Preprocessing
@@ -54,6 +51,10 @@ This project applies **Simple and Multiple Linear Regression** techniques to pre
 ###  4. Visualization
 - Scatter plot with regression line (Simple Linear Regression)
 - Bar chart of feature coefficients (Multiple Linear Regression)
+
+### 5. Predict price for New features
+- create New housing features
+- Predict the price of the new data
 
 ---
 
@@ -100,11 +101,10 @@ This program walks through the entire process of predicting housing prices using
 
 ###  Visualize the Results
 - Simple regression: Scatter plot with regression line.
-- ![image](https://github.com/user-attachments/assets/3d7f765c-8b6e-431a-ad04-48a9ca9b5fda)
-
+- ![simple linear](https://github.com/user-attachments/assets/b7a9f81f-0a88-4de4-b529-6810b58ff007)
+  
 - Multiple regression: Bar plot of feature coefficients.
-- ![image](https://github.com/user-attachments/assets/1842c2ec-86da-4a4f-9a12-dfa1ef5ca74d)
-
+- ![Multi Linear](https://github.com/user-attachments/assets/58dbd8ac-53b9-4f44-8456-3cb66557caa4)
 
 ### Interpret the Coefficients
 - Intercept and feature coefficients help explain how each feature influences the price.
