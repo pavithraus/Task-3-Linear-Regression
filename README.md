@@ -1,4 +1,4 @@
-##Linear_Regression_modelling Uing Housing Price dataset
+## Linear_Regression_modelling Uing Housing Price dataset
 
 This project applies **Simple and Multiple Linear Regression** techniques to predict housing prices based on various features from the Housing price dataset.
 ---
@@ -15,7 +15,7 @@ This project applies **Simple and Multiple Linear Regression** techniques to pre
 ---
 ## Dataset Used
 
-- **Dataset:** [Housing.csv]https://github.com/pavithraus/Task-3-Linear-Regression/blob/main/Housing.csv
+- **Dataset:** -https://github.com/pavithraus/Task-3-Linear-Regression/blob/main/Housing.csv
 - **Attributes include:**
   - area, bedrooms, bathrooms, stories, parking, furnishing status, air conditioning, etc.
   - target variable: **price**
